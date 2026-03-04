@@ -1,0 +1,3504 @@
+{
+  "topics": [
+    {
+      "id": "w01-matematica1-01",
+      "week": 1,
+      "subject": "Matemática 1",
+      "title": "Adição, subtração, multiplicação e divisão",
+      "videoUrl": "https://youtu.be/h3sFlP8Rmqc",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w01-matematica2-02",
+      "week": 1,
+      "subject": "Matemática 2",
+      "title": "Reta, plano e ângulo",
+      "videoUrl": "https://www.youtube.com/watch?v=0CnUdzmpO8E&list=PL30iVMnSrFbdOs4DdadR6JgDZLeNdbD1x",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w01-matematica3-03",
+      "week": 1,
+      "subject": "Matemática 3",
+      "title": "Conjuntos numéricos",
+      "videoUrl": "https://youtu.be/s5Xv1SIQnQE",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w01-biologia1-04",
+      "week": 1,
+      "subject": "Biologia 1",
+      "title": "Aspectos básicos das células",
+      "videoUrl": "https://www.youtube.com/watch?v=umSgmnclhyg&list=PLG2sdMP_MeFKrhY2jYpRQOTIUZZ-ba_jJ",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w01-biologia2-05",
+      "week": 1,
+      "subject": "Biologia 2",
+      "title": "Origem da vida",
+      "videoUrl": "https://www.youtube.com/watch?v=A7mC6q942Qc",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w01-fisica1-06",
+      "week": 1,
+      "subject": "Física 1",
+      "title": "Termometria",
+      "videoUrl": "https://www.youtube.com/watch?v=nLn5BxL4Cn4&list=PLG2sdMP_MeFLnAwamADLBuCinGkZnQPzV",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w01-fisica2-07",
+      "week": 1,
+      "subject": "Física 2",
+      "title": "Movimento uniforme",
+      "videoUrl": "https://www.youtube.com/watch?v=oVb3WV1CLSE&list=PLG2sdMP_MeFLI1KKkQDiHK2Vfh9LYfBOX",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w01-quimica1-08",
+      "week": 1,
+      "subject": "Química 1",
+      "title": "Propriedades da matéria",
+      "videoUrl": "https://www.youtube.com/watch?v=fHFDMh9-998",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w01-quimica2-09",
+      "week": 1,
+      "subject": "Química 2",
+      "title": "Evolução dos modelos atômicos",
+      "videoUrl": "https://www.youtube.com/watch?v=Xms9TlrWOaQ",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w01-filosofia-sociologia-10",
+      "week": 1,
+      "subject": "Filosofia/Sociologia",
+      "title": "Definição e surgimento da filosofia",
+      "videoUrl": "https://www.youtube.com/watch?v=WPSDYtxd_d0",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w01-historia-11",
+      "week": 1,
+      "subject": "História",
+      "title": "Conceitos básicos do estudo da história",
+      "videoUrl": "https://www.youtube.com/watch?v=14RNIIYfnYY",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w01-geografia-12",
+      "week": 1,
+      "subject": "Geografia",
+      "title": "Conceitos básicos do estudo da geografia",
+      "videoUrl": "https://www.youtube.com/watch?v=eTdWIqgj1oQ",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w01-linguagens-13",
+      "week": 1,
+      "subject": "Linguagens",
+      "title": "Texto, mensagem e código",
+      "videoUrl": "https://www.youtube.com/watch?v=i-3h6ptGEMs",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w01-redacao-14",
+      "week": 1,
+      "subject": "Redação",
+      "title": "Aspectos da dissertação argumentativa",
+      "videoUrl": "https://www.youtube.com/watch?v=nEImAvz96EI",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w02-matematica1-01",
+      "week": 2,
+      "subject": "Matemática 1",
+      "title": "Potenciação, fatoração e radiciação",
+      "videoUrl": "https://www.youtube.com/watch?v=FzkAWvOAEUI&list=PLG2sdMP_MeFI8FKln0MaQYi2TznkyQ-V3",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w02-matematica2-02",
+      "week": 2,
+      "subject": "Matemática 2",
+      "title": "Teorema de Tales e bissetrizes",
+      "videoUrl": "https://www.youtube.com/watch?v=RKegZ1TiO28&list=PLG2sdMP_MeFI5AGsVFkAjJqRfR5-CB9-5",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w02-matematica3-03",
+      "week": 2,
+      "subject": "Matemática 3",
+      "title": "Problemas envolvendo conjuntos e diagramas",
+      "videoUrl": "https://www.youtube.com/watch?v=imDpMSynBvs",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w02-biologia1-04",
+      "week": 2,
+      "subject": "Biologia 1",
+      "title": "Membrana e citoplasma celular",
+      "videoUrl": "https://www.youtube.com/watch?v=cGWWMMNrkKg&list=PLG2sdMP_MeFIlfVPRvDwAdXgtd-GpPySf",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w02-biologia2-05",
+      "week": 2,
+      "subject": "Biologia 2",
+      "title": "Conceitos básicos de ecologia",
+      "videoUrl": "https://www.youtube.com/watch?v=XvdePktAui8",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w02-fisica1-06",
+      "week": 2,
+      "subject": "Física 1",
+      "title": "Calorimetria 1",
+      "videoUrl": "https://www.youtube.com/watch?v=hsjynlSYQI4&list=PLG2sdMP_MeFKazk75iYYDDVDoqItgmYfu",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w02-fisica2-07",
+      "week": 2,
+      "subject": "Física 2",
+      "title": "Movimento uniformemente variado",
+      "videoUrl": "https://www.youtube.com/watch?v=HvmshToybB4&list=PLG2sdMP_MeFJmxrh0kZmM9G-K3V_bq7H5",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w02-quimica1-08",
+      "week": 2,
+      "subject": "Química 1",
+      "title": "Átomo: Estrutura e eletrosfera",
+      "videoUrl": "https://www.youtube.com/watch?v=jScFCzblS7w&list=PLG2sdMP_MeFKoDCVa-ggCn2hgHO6CovTY",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w02-quimica2-09",
+      "week": 2,
+      "subject": "Química 2",
+      "title": "Separação de misturas",
+      "videoUrl": "https://www.youtube.com/watch?v=fWPCiELhQuw&list=PLG2sdMP_MeFJ9pCH3afCVtysfn2398sm4",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w02-filosofia-sociologia-10",
+      "week": 2,
+      "subject": "Filosofia/Sociologia",
+      "title": "Filósofos pré-socráticos",
+      "videoUrl": "https://www.youtube.com/watch?v=TIIzrsbx74E",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w02-historia-11",
+      "week": 2,
+      "subject": "História",
+      "title": "Pré-História e Antiguidade Oriental",
+      "videoUrl": "https://www.youtube.com/watch?v=ym5aER-r2tI&list=PLG2sdMP_MeFLoMnBGVel2GJhrI8u0FD6P",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w02-geografia-12",
+      "week": 2,
+      "subject": "Geografia",
+      "title": "Cartografia",
+      "videoUrl": "https://www.youtube.com/watch?v=x0B7Wv6bCfU",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w02-linguagens-13",
+      "week": 2,
+      "subject": "Linguagens",
+      "title": "Gêneros textuais",
+      "videoUrl": "https://youtu.be/Ucjv4LT8CSg",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w02-redacao-14",
+      "week": 2,
+      "subject": "Redação",
+      "title": "Estruturação básica Redação ENEM",
+      "videoUrl": "https://youtu.be/CjUCTZstyK8",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w03-matematica1-01",
+      "week": 3,
+      "subject": "Matemática 1",
+      "title": "Números primos, critérios e problemas de divisibilidade",
+      "videoUrl": "https://www.youtube.com/watch?v=MrHhUUnOtPc&list=PL30iVMnSrFbd5lmqDPxAqI0nyQ8cAJpJz",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w03-matematica2-02",
+      "week": 3,
+      "subject": "Matemática 2",
+      "title": "Triângulos 1: Tipos, Pitágoras e relações métricas",
+      "videoUrl": "https://www.youtube.com/watch?v=Ka3GluTldeY&list=PL30iVMnSrFbe_EW7ujydLPvoI30eqs9oh",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w03-matematica3-03",
+      "week": 3,
+      "subject": "Matemática 3",
+      "title": "MDC e MMC",
+      "videoUrl": "https://www.youtube.com/watch?v=03lHucDFh10&list=PL30iVMnSrFbdawLTBEqoT1KiP5nXeSZBK",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w03-biologia1-04",
+      "week": 3,
+      "subject": "Biologia 1",
+      "title": "Núcleo celular: DNA e RNA (Replicação, transcrição e tradução)",
+      "videoUrl": "https://www.youtube.com/watch?v=LFqaBPFXAh0&list=PL30iVMnSrFbeMCaORTNjgp0CrhrxOG8Qk",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w03-biologia2-05",
+      "week": 3,
+      "subject": "Biologia 2",
+      "title": "Cadeias e teias alimentares",
+      "videoUrl": "https://youtu.be/9cOQZGRbJYI?si=LXoEHIN6BfpN4lFm",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w03-fisica1-06",
+      "week": 3,
+      "subject": "Física 1",
+      "title": "Calorimetria 2",
+      "videoUrl": "https://www.youtube.com/watch?v=gAtGW9P6m84&list=PL30iVMnSrFberJNbsAq14It3bkWp7CWda",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w03-fisica2-07",
+      "week": 3,
+      "subject": "Física 2",
+      "title": "Vetores",
+      "videoUrl": "https://youtu.be/eAAKzZcbITI",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w03-quimica1-08",
+      "week": 3,
+      "subject": "Química 1",
+      "title": "Ligações químicas",
+      "videoUrl": "https://youtu.be/euYcDP7zI54",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w03-quimica2-09",
+      "week": 3,
+      "subject": "Química 2",
+      "title": "Tabela periódica e propriedades periódicas",
+      "videoUrl": "https://www.youtube.com/watch?v=TGtw2reBkaU&list=PL30iVMnSrFbe_RCH_ALEWfn4O-nXBX0l3",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w03-filosofia-sociologia-10",
+      "week": 3,
+      "subject": "Filosofia/Sociologia",
+      "title": "Sócrates",
+      "videoUrl": "https://youtu.be/8cfp9vxE7Uw",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w03-historia-11",
+      "week": 3,
+      "subject": "História",
+      "title": "Antiguidade Clássica: Grécia",
+      "videoUrl": "https://youtu.be/bpArabQHqA4",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w03-geografia-12",
+      "week": 3,
+      "subject": "Geografia",
+      "title": "População",
+      "videoUrl": "https://youtu.be/0K3t7Kfo7RY",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w03-linguagens-13",
+      "week": 3,
+      "subject": "Linguagens",
+      "title": "Tipos textuais",
+      "videoUrl": "https://youtu.be/ibwf_X3498c",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w03-redacao-14",
+      "week": 3,
+      "subject": "Redação",
+      "title": "Introdução modelo ENEM",
+      "videoUrl": "https://youtu.be/WfP2bl5xb5E",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w04-matematica1-01",
+      "week": 4,
+      "subject": "Matemática 1",
+      "title": "Regra de três simples e composta",
+      "videoUrl": "https://youtu.be/aAef69w8aNk",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w04-matematica2-02",
+      "week": 4,
+      "subject": "Matemática 2",
+      "title": "Triângulos 2: Congruência e semelhança",
+      "videoUrl": "https://www.youtube.com/watch?v=C0BAP_2eeaA&list=PL30iVMnSrFbe8w2HTEgxuU-VQ96sPO4Rq",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w04-matematica3-03",
+      "week": 4,
+      "subject": "Matemática 3",
+      "title": "Razão e proporção",
+      "videoUrl": "https://www.youtube.com/watch?v=uIulBEk8gcM&list=PL30iVMnSrFbdzR909T87lMIhtVCLPDr44",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w04-biologia1-04",
+      "week": 4,
+      "subject": "Biologia 1",
+      "title": "Organelas celulares e suas funções",
+      "videoUrl": "https://youtu.be/2Wf1uEPjcV8",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w04-biologia2-05",
+      "week": 4,
+      "subject": "Biologia 2",
+      "title": "Relações ecológicas",
+      "videoUrl": "https://www.youtube.com/watch?v=-0Vog0Hizro&list=PL30iVMnSrFbcy6aP1fIcOuUoQNpmKv9Z2",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w04-fisica1-06",
+      "week": 4,
+      "subject": "Física 1",
+      "title": "Propagação de calor e dilatação térmica",
+      "videoUrl": "https://www.youtube.com/watch?v=To-x9-ZZrSQ&list=PL30iVMnSrFbfJjKa0oKOQQ4tPpRyZ3ijf",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w04-fisica2-07",
+      "week": 4,
+      "subject": "Física 2",
+      "title": "Movimento circular uniforme",
+      "videoUrl": "https://www.youtube.com/watch?v=P28aPQvFhmE&list=PL30iVMnSrFbcQ8doatZHri0j5wvrKmLvb",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w04-quimica1-08",
+      "week": 4,
+      "subject": "Química 1",
+      "title": "Funções inorgânicas 1: Ácido e base",
+      "videoUrl": "https://www.youtube.com/watch?v=7TvKQrv0ZQI",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w04-quimica2-09",
+      "week": 4,
+      "subject": "Química 2",
+      "title": "Geometria molecular",
+      "videoUrl": "https://youtu.be/jrNcUQCUEwU",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w04-filosofia-sociologia-10",
+      "week": 4,
+      "subject": "Filosofia/Sociologia",
+      "title": "Platão",
+      "videoUrl": "https://youtu.be/GYISmIglyc8",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w04-historia-11",
+      "week": 4,
+      "subject": "História",
+      "title": "Antiguidade Clássica: Roma",
+      "videoUrl": "https://youtu.be/SfoAgpJwF5g",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w04-geografia-12",
+      "week": 4,
+      "subject": "Geografia",
+      "title": "Urbanização",
+      "videoUrl": "https://youtu.be/jPZyKuMrAj4",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w04-linguagens-13",
+      "week": 4,
+      "subject": "Linguagens",
+      "title": "Funções da linguagem",
+      "videoUrl": "https://youtu.be/5JrCUWnqHBk",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w04-redacao-14",
+      "week": 4,
+      "subject": "Redação",
+      "title": "Proposta de intervenção",
+      "videoUrl": "https://youtu.be/LcTBcoKjk7U",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w05-matematica1-01",
+      "week": 5,
+      "subject": "Matemática 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w05-matematica2-02",
+      "week": 5,
+      "subject": "Matemática 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w05-matematica3-03",
+      "week": 5,
+      "subject": "Matemática 3",
+      "title": "Grandezas diretamente e inversamente proporcionais",
+      "videoUrl": "https://youtu.be/XVPo3mD3LIU?si=Y4OIvBAgWydCbl9W",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w05-biologia1-04",
+      "week": 5,
+      "subject": "Biologia 1",
+      "title": "Fermentação, respiração celular, fotossíntese e quimiossíntese",
+      "videoUrl": "https://www.youtube.com/watch?v=WKFiN_qBwNI&list=PL30iVMnSrFbcv9tQu2cAU2G1KaZR9ch2T",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w05-biologia2-05",
+      "week": 5,
+      "subject": "Biologia 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w05-fisica1-06",
+      "week": 5,
+      "subject": "Física 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w05-fisica2-07",
+      "week": 5,
+      "subject": "Física 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w05-quimica1-08",
+      "week": 5,
+      "subject": "Química 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w05-quimica2-09",
+      "week": 5,
+      "subject": "Química 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w05-filosofia-sociologia-10",
+      "week": 5,
+      "subject": "Filosofia/Sociologia",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w05-historia-11",
+      "week": 5,
+      "subject": "História",
+      "title": "Alta Idade Média",
+      "videoUrl": "https://youtu.be/zUp8O8Ib_QI?si=et--Sxj4yjJnBUZ1",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w05-geografia-12",
+      "week": 5,
+      "subject": "Geografia",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w05-linguagens-13",
+      "week": 5,
+      "subject": "Linguagens",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w05-redacao-14",
+      "week": 5,
+      "subject": "Redação",
+      "title": "Argumentação modelo ENEM 1",
+      "videoUrl": "https://www.youtube.com/watch?v=qpMhALpQ2CA",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w06-matematica1-01",
+      "week": 6,
+      "subject": "Matemática 1",
+      "title": "Equações do primeiro grau",
+      "videoUrl": "https://youtu.be/Tu08PYjt-2Q?si=8iEZcZpuxJ8u-1zX",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w06-matematica2-02",
+      "week": 6,
+      "subject": "Matemática 2",
+      "title": "Quadrado, losango, trapézio e paralelogramo",
+      "videoUrl": "https://www.youtube.com/watch?v=p6xYxnH6yPs&list=PL30iVMnSrFbdbWlLIQYUvkrARyJ8OjLO_",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w06-matematica3-03",
+      "week": 6,
+      "subject": "Matemática 3",
+      "title": "Funções do primeiro grau",
+      "videoUrl": "https://www.youtube.com/watch?v=hdMFlAv5GkU&list=PL30iVMnSrFbe3Wik2SLkb-b3o6-j_PcTi",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w06-biologia1-04",
+      "week": 6,
+      "subject": "Biologia 1",
+      "title": "Divisão celular 1: Mitose",
+      "videoUrl": "https://youtu.be/zvr7O5tqNiY?si=NZDVdFdzJusEoO47",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w06-biologia2-05",
+      "week": 6,
+      "subject": "Biologia 2",
+      "title": "Ciclos biogeoquímicos",
+      "videoUrl": "https://www.youtube.com/watch?v=WNtCkBjJ7EI&list=PL30iVMnSrFbfrycFlMI03X-pcpQW0xO-O",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w06-fisica1-06",
+      "week": 6,
+      "subject": "Física 1",
+      "title": "Comportamento de gases ideais",
+      "videoUrl": "https://www.youtube.com/watch?v=05uwoBAAUBI&list=PLNfWNKz4iEr-oAOcLWMN1AfQ_F3OPk1N_",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w06-fisica2-07",
+      "week": 6,
+      "subject": "Física 2",
+      "title": "Cinemática vetorial",
+      "videoUrl": "https://www.youtube.com/watch?v=ztuzBYx9IIQ&list=PL30iVMnSrFbdTAYhUDnsWl27yFjzzB56e",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w06-quimica1-08",
+      "week": 6,
+      "subject": "Química 1",
+      "title": "Funções inorgânicas 2: Sais",
+      "videoUrl": "https://youtu.be/TKn780feTFE?si=WkexUxs-UdPDVg3V",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w06-quimica2-09",
+      "week": 6,
+      "subject": "Química 2",
+      "title": "Relações numéricas e análise dimensional",
+      "videoUrl": "https://www.youtube.com/watch?v=H2CGcU2Vbww",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w06-filosofia-sociologia-10",
+      "week": 6,
+      "subject": "Filosofia/Sociologia",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w06-historia-11",
+      "week": 6,
+      "subject": "História",
+      "title": "Feudalismo",
+      "videoUrl": "https://www.youtube.com/watch?v=EDZVqcvffgQ&list=PL30iVMnSrFbfOVcVhOSZFzbeS5k2Z9zyQ",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w06-geografia-12",
+      "week": 6,
+      "subject": "Geografia",
+      "title": "Primeira Revolução Industrial",
+      "videoUrl": "https://youtu.be/ci7nu9UQnxw?si=XHdAd860O5AWmy_p",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w06-linguagens-13",
+      "week": 6,
+      "subject": "Linguagens",
+      "title": "Classes gramaticais 1: Substantivo",
+      "videoUrl": "https://youtu.be/8iXiBgCnGv4?si=h32u1mqa5X1sD7oo",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w06-redacao-14",
+      "week": 6,
+      "subject": "Redação",
+      "title": "Argumentação modelo ENEM 2",
+      "videoUrl": "https://youtu.be/IGmZHrihXN8?si=wpfn3iKTD9S5I1Jo",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w07-matematica1-01",
+      "week": 7,
+      "subject": "Matemática 1",
+      "title": "Equações do segundo grau",
+      "videoUrl": "https://www.youtube.com/watch?v=toAaUBwitFE&list=PL30iVMnSrFbd3Xv7agnxMw2mbpWdeTgVV",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w07-matematica2-02",
+      "week": 7,
+      "subject": "Matemática 2",
+      "title": "Circunferência 1: Elementos, comprimento, área",
+      "videoUrl": "https://www.youtube.com/watch?v=MNxLUQQDr18&list=PL30iVMnSrFbcwZ6JN9k7l4GcWjvBMtBDy&index=8",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w07-matematica3-03",
+      "week": 7,
+      "subject": "Matemática 3",
+      "title": "Funções do segundo grau",
+      "videoUrl": "https://www.youtube.com/watch?v=Z5aVW_Zgifk&list=PL30iVMnSrFbeQsdjm8xW1nZy90EqIrWH1",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w07-biologia1-04",
+      "week": 7,
+      "subject": "Biologia 1",
+      "title": "Divisão celular 2: Meiose",
+      "videoUrl": "https://www.youtube.com/watch?v=DWf_Sney9ZA&list=PL30iVMnSrFbcJto65e109z_5PO4dvmRpJ",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w07-biologia2-05",
+      "week": 7,
+      "subject": "Biologia 2",
+      "title": "Poluição e impactos ambientais",
+      "videoUrl": "https://www.youtube.com/watch?v=HdrkhkWuuPQ&list=PL30iVMnSrFbcDdfb5hX9lyiYFxi04ys5N",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w07-fisica1-06",
+      "week": 7,
+      "subject": "Física 1",
+      "title": "Leis da termodinâmica",
+      "videoUrl": "https://www.youtube.com/watch?v=kNzjPoNwU20&list=PL30iVMnSrFbdJBWBRtnCA_-sbADA9LJh0",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w07-fisica2-07",
+      "week": 7,
+      "subject": "Física 2",
+      "title": "Lançamento de projéteis",
+      "videoUrl": "https://www.youtube.com/live/KBhmVUcaLz8?si=bOEMZfd9lYlYcWA2",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w07-quimica1-08",
+      "week": 7,
+      "subject": "Química 1",
+      "title": "Funções inorgânicas 3: Óxidos e reações inorgânicas",
+      "videoUrl": "https://www.youtube.com/watch?v=l_Wk4TfXh_w&list=PL30iVMnSrFbc2UkNyNX1TP6Ge40Cm-Sdr",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w07-quimica2-09",
+      "week": 7,
+      "subject": "Química 2",
+      "title": "Cálculo estequiométrico 1",
+      "videoUrl": "https://www.youtube.com/watch?v=deBaO49N1H8",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w07-filosofia-sociologia-10",
+      "week": 7,
+      "subject": "Filosofia/Sociologia",
+      "title": "São Tomás de Aquino e Santo Agostinho",
+      "videoUrl": "https://www.youtube.com/watch?v=n1d61aPD0XM&list=PL30iVMnSrFbcM7l2LPwY46KjVsyD9c11w",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w07-historia-11",
+      "week": 7,
+      "subject": "História",
+      "title": "Crise da Idade Média",
+      "videoUrl": "https://www.youtube.com/watch?v=Me36pQKhS3E",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w07-geografia-12",
+      "week": 7,
+      "subject": "Geografia",
+      "title": "Segunda Revolução Industrial",
+      "videoUrl": "https://www.youtube.com/watch?v=SLhSDL9o_xQ",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w07-linguagens-13",
+      "week": 7,
+      "subject": "Linguagens",
+      "title": "Classes gramaticais 2: Verbo",
+      "videoUrl": "https://www.youtube.com/watch?v=T8MB4vzTAv4&list=PL30iVMnSrFbdMlANN87Q4LR5I4YAHk4Pc",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w07-redacao-14",
+      "week": 7,
+      "subject": "Redação",
+      "title": "Argumentação ENEM 3",
+      "videoUrl": "https://www.youtube.com/watch?v=cdRxMkkAxIk",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w08-matematica1-01",
+      "week": 8,
+      "subject": "Matemática 1",
+      "title": "Sistemas de equações do segundo grau: Substituição e adição",
+      "videoUrl": "https://www.youtube.com/watch?v=oT4k6bhB4Dk&list=PL30iVMnSrFbcVpXi1ocP6jE-ow_Pdfiwn",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w08-matematica2-02",
+      "week": 8,
+      "subject": "Matemática 2",
+      "title": "Circunferência 2: Relações métricas e problemas",
+      "videoUrl": "https://www.youtube.com/watch?v=kIqcsGBKRq0&list=PL30iVMnSrFbenfUTLQYOp8WrpcJfKoODa",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w08-matematica3-03",
+      "week": 8,
+      "subject": "Matemática 3",
+      "title": "Problemas envolvendo funções do primeiro e segundo grau",
+      "videoUrl": "https://www.youtube.com/watch?v=yTfNuU2xrrc&list=PL30iVMnSrFbd39LMnunNEylonkX3yEhVG",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w08-biologia1-04",
+      "week": 8,
+      "subject": "Biologia 1",
+      "title": "Água, sais minerais e carboidratos",
+      "videoUrl": "https://www.youtube.com/watch?v=LkLOkafx36g&list=PL30iVMnSrFbf2QlKhXHZ9DG_1rBmR1F1V",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w08-biologia2-05",
+      "week": 8,
+      "subject": "Biologia 2",
+      "title": "Sistema reprodutor",
+      "videoUrl": "https://www.youtube.com/watch?v=bhi3LnbCdx4&list=PL30iVMnSrFbdIUPd6auHy7K1f4Rx565Ub",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w08-fisica1-06",
+      "week": 8,
+      "subject": "Física 1",
+      "title": "Eletrostática 1: Carga, campo e força",
+      "videoUrl": "https://www.youtube.com/watch?v=ktatkm5Wzmg&list=PL30iVMnSrFbfmLQTHk6YJPtKpc_n2sy_c",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w08-fisica2-07",
+      "week": 8,
+      "subject": "Física 2",
+      "title": "Conceituação de trabalho, energia cinética e TEC",
+      "videoUrl": "https://www.youtube.com/watch?v=NWRAAqRnUHs&list=PL30iVMnSrFbfC_6_OUO4KtbEAIHswqcmp",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w08-quimica1-08",
+      "week": 8,
+      "subject": "Química 1",
+      "title": "Hidrocarbonetos",
+      "videoUrl": "https://www.youtube.com/watch?v=uQJJTE9sJSg&list=PL30iVMnSrFbdtyz5lyDsZJrcoORtblrTx",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w08-quimica2-09",
+      "week": 8,
+      "subject": "Química 2",
+      "title": "Cálculo estequiométrico 2",
+      "videoUrl": "https://www.youtube.com/watch?v=H-1GfHGUU4M&list=PL30iVMnSrFbfqinA_Q016p1UgqSz4hdoq",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w08-filosofia-sociologia-10",
+      "week": 8,
+      "subject": "Filosofia/Sociologia",
+      "title": "Francis Bacon e o empirismo",
+      "videoUrl": "https://www.youtube.com/watch?v=quB59LjzXWA&list=PL30iVMnSrFbe7xw6mLtz2drypVKmc20x-",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w08-historia-11",
+      "week": 8,
+      "subject": "História",
+      "title": "Absolutismo e mercantilismo",
+      "videoUrl": "https://www.youtube.com/watch?v=TZyNLIAwCZ0",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w08-geografia-12",
+      "week": 8,
+      "subject": "Geografia",
+      "title": "Segunda Revolução Industrial",
+      "videoUrl": "https://www.youtube.com/watch?v=CvBwcOR5oD8",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w08-linguagens-13",
+      "week": 8,
+      "subject": "Linguagens",
+      "title": "Classes gramaticais 3: Pronome, adjetivo e advérbio",
+      "videoUrl": "https://www.youtube.com/watch?v=PQRdgiIutrE&list=PL30iVMnSrFbf8mSsHyEXI2rul5HPns0rK",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w08-redacao-14",
+      "week": 8,
+      "subject": "Redação",
+      "title": "Recursos coesivos",
+      "videoUrl": "https://www.youtube.com/watch?v=IIU6i3UXyi0&list=PL30iVMnSrFbcYsBLGn9Wmz23XCrrGOQCJ",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w09-matematica1-01",
+      "week": 9,
+      "subject": "Matemática 1",
+      "title": "Problemas envolvendo equações do primeiro e segundo grau 1",
+      "videoUrl": "https://www.youtube.com/watch?v=H4j9pBmQZNA&list=PL30iVMnSrFbdfkWv7YXhy_wrC0SjhW8WM",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w09-matematica2-02",
+      "week": 9,
+      "subject": "Matemática 2",
+      "title": "Polígonos",
+      "videoUrl": "https://www.youtube.com/watch?v=cooNCC78aBI&list=PL30iVMnSrFbffuGLsVeLfcLIJOANE4alJ",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w09-matematica3-03",
+      "week": 9,
+      "subject": "Matemática 3",
+      "title": "Módulo, função modular e função exponencial",
+      "videoUrl": "https://www.youtube.com/watch?v=sXFdCZXzRT8&list=PL30iVMnSrFbeRoqetZgjLJM3Ymx6GoYkJ",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w09-biologia1-04",
+      "week": 9,
+      "subject": "Biologia 1",
+      "title": "Lipídios, proteínas e ácidos nucleicos",
+      "videoUrl": "https://www.youtube.com/watch?v=AWVhTdqZNoI&list=PL30iVMnSrFbef3CLsktzG0Siq9Ov-8X9R",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w09-biologia2-05",
+      "week": 9,
+      "subject": "Biologia 2",
+      "title": "Sistema digestório e excretor",
+      "videoUrl": "https://www.youtube.com/watch?v=ccxiObyUGRA&list=PL30iVMnSrFbeJpmYcx_t9uVNN791dHYEB",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w09-fisica1-06",
+      "week": 9,
+      "subject": "Física 1",
+      "title": "Eletrostática 2: Trabalho, energia e potencial elétrico",
+      "videoUrl": "https://www.youtube.com/watch?v=7T2EouqZUHM&list=PL30iVMnSrFbfSAsBzLsyJUNNJXVNNJjGK",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w09-fisica2-07",
+      "week": 9,
+      "subject": "Física 2",
+      "title": "EPG e EPE, sistemas conservativos e potência",
+      "videoUrl": "https://www.youtube.com/watch?v=i5n0m6ui83U&list=PL30iVMnSrFbfinK-6wjoeL4SwUGWAABCU",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w09-quimica1-08",
+      "week": 9,
+      "subject": "Química 1",
+      "title": "Funções orgânicas oxigenadas",
+      "videoUrl": "https://www.youtube.com/watch?v=VgGpMYB3M9I",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w09-quimica2-09",
+      "week": 9,
+      "subject": "Química 2",
+      "title": "Propriedades da água",
+      "videoUrl": "https://www.youtube.com/watch?v=53vWzoGqhxQ",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w09-filosofia-sociologia-10",
+      "week": 9,
+      "subject": "Filosofia/Sociologia",
+      "title": "Descartes e o racionalismo",
+      "videoUrl": "https://www.youtube.com/watch?v=0a1Y54rEkdE&list=PL30iVMnSrFbc9aJR8R_2j1lqGLExKLro2",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w09-historia-11",
+      "week": 9,
+      "subject": "História",
+      "title": "Renascimento Cultural e Urbano",
+      "videoUrl": "https://www.youtube.com/watch?v=QnjkthNjWu0",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w09-geografia-12",
+      "week": 9,
+      "subject": "Geografia",
+      "title": "Terceira Revolução Industrial",
+      "videoUrl": "https://www.youtube.com/watch?v=2yqokc4rqjY",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w09-linguagens-13",
+      "week": 9,
+      "subject": "Linguagens",
+      "title": "Classes gramaticais 4: Artigo, numeral, preposição, conjunção e interjeição",
+      "videoUrl": "https://www.youtube.com/watch?v=Fs9JB8IZc74&list=PL30iVMnSrFbdj06S8HLgVM2SGpx0GEmWx",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w09-redacao-14",
+      "week": 9,
+      "subject": "Redação",
+      "title": "Uso produtivo de repertórios socioculturais",
+      "videoUrl": "https://www.youtube.com/watch?v=ki2zLqZqc7w",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w10-matematica1-01",
+      "week": 10,
+      "subject": "Matemática 1",
+      "title": "Problemas envolvendo equações do primeiro e segundo grau 2",
+      "videoUrl": "https://www.youtube.com/watch?v=H4j9pBmQZNA&list=PL30iVMnSrFbdfkWv7YXhy_wrC0SjhW8WM",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w10-matematica2-02",
+      "week": 10,
+      "subject": "Matemática 2",
+      "title": "Revisão figuras planas",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w10-matematica3-03",
+      "week": 10,
+      "subject": "Matemática 3",
+      "title": "Revisão funções",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w10-biologia1-04",
+      "week": 10,
+      "subject": "Biologia 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w10-biologia2-05",
+      "week": 10,
+      "subject": "Biologia 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w10-fisica1-06",
+      "week": 10,
+      "subject": "Física 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w10-fisica2-07",
+      "week": 10,
+      "subject": "Física 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w10-quimica1-08",
+      "week": 10,
+      "subject": "Química 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w10-quimica2-09",
+      "week": 10,
+      "subject": "Química 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w10-filosofia-sociologia-10",
+      "week": 10,
+      "subject": "Filosofia/Sociologia",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w10-historia-11",
+      "week": 10,
+      "subject": "História",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w10-geografia-12",
+      "week": 10,
+      "subject": "Geografia",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w10-linguagens-13",
+      "week": 10,
+      "subject": "Linguagens",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w10-redacao-14",
+      "week": 10,
+      "subject": "Redação",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w11-matematica1-01",
+      "week": 11,
+      "subject": "Matemática 1",
+      "title": "Problemas Clássicos",
+      "videoUrl": "https://www.youtube.com/watch?v=3u9MRnd4g1k&list=PL30iVMnSrFbfeVQgtqrQuO8RQpQ__l-Q0",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w11-matematica2-02",
+      "week": 11,
+      "subject": "Matemática 2",
+      "title": "Trigonometria 1 - Trigonometria no triângulo retângulo",
+      "videoUrl": "https://www.youtube.com/watch?v=4sTUs4ll3dI&list=PL30iVMnSrFbeABKopvLT3Ds4uFhy3XDb3",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w11-matematica3-03",
+      "week": 11,
+      "subject": "Matemática 3",
+      "title": "Logaritmos 1 - Definição e propriedades",
+      "videoUrl": "https://www.youtube.com/watch?v=Maio3bg18a4&list=PL30iVMnSrFbfvmPAvUF8_motUa5WvKics",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w11-biologia1-04",
+      "week": 11,
+      "subject": "Biologia 1",
+      "title": "Vitaminas",
+      "videoUrl": "https://www.youtube.com/watch?v=-0sPTGY0djw",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w11-biologia2-05",
+      "week": 11,
+      "subject": "Biologia 2",
+      "title": "Sistema circulatório",
+      "videoUrl": "https://www.youtube.com/watch?v=89aQ8HufFy8&list=PL30iVMnSrFbe1bqT6FxEx1jBwXaUkrIxD",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w11-fisica1-06",
+      "week": 11,
+      "subject": "Física 1",
+      "title": "Eletrodinâmica 1 - Corrente, potência e resistores",
+      "videoUrl": "https://www.youtube.com/watch?v=Zd4eECbE3OE&list=PL30iVMnSrFbcjL6Ur4bzQpvz2N2vvPWyY&index=1",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w11-fisica2-07",
+      "week": 11,
+      "subject": "Física 2",
+      "title": "Introdução à dinâmica",
+      "videoUrl": "https://www.youtube.com/watch?v=oRoXaH7E2xI&list=PLzjR7HXQnrcdJSrrM2DbJ-LHuFwRR31Uc",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w11-quimica1-08",
+      "week": 11,
+      "subject": "Química 1",
+      "title": "Funções orgânicas oxigenadas 2",
+      "videoUrl": "https://www.youtube.com/watch?v=fr_97i04st8&list=PL30iVMnSrFbfP5Fd1xv853bIM9oxBv1iM",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w11-quimica2-09",
+      "week": 11,
+      "subject": "Química 2",
+      "title": "Soluções 1",
+      "videoUrl": "https://www.youtube.com/watch?v=m3mUEb6ULf8",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w11-filosofia-sociologia-10",
+      "week": 11,
+      "subject": "Filosofia/Sociologia",
+      "title": "Locke e Hume",
+      "videoUrl": "https://www.youtube.com/watch?v=L4muar9_Fvo&list=PL30iVMnSrFbf4aFA4fz9qzYpS3qlMKOte",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w11-historia-11",
+      "week": 11,
+      "subject": "História",
+      "title": "Reforma Protestante e Contrarreforma",
+      "videoUrl": "https://www.youtube.com/watch?v=n-gxIqg5xwI",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w11-geografia-12",
+      "week": 11,
+      "subject": "Geografia",
+      "title": "Estrutura da Terra e relevo",
+      "videoUrl": "https://www.youtube.com/watch?v=P2_TpkbTSUI&list=PL30iVMnSrFbcyDXk6SE-zynBPllt4B4st",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w11-linguagens-13",
+      "week": 11,
+      "subject": "Linguagens",
+      "title": "Gêneros literários",
+      "videoUrl": "https://www.youtube.com/watch?v=9T7-gOm0nGk",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w11-redacao-14",
+      "week": 11,
+      "subject": "Redação",
+      "title": "Uso da vírgula",
+      "videoUrl": "https://www.youtube.com/watch?v=-uUtlvKifiY",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w12-matematica1-01",
+      "week": 12,
+      "subject": "Matemática 1",
+      "title": "Porcentagem e juros simples",
+      "videoUrl": "https://www.youtube.com/watch?v=CERiIwParX4&list=PL30iVMnSrFbcyNEKTIQaeW62xicVGi0SJ",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w12-matematica2-02",
+      "week": 12,
+      "subject": "Matemática 2",
+      "title": "Trigonometria 2 - Lei dos senos e cossenos",
+      "videoUrl": "https://www.youtube.com/watch?v=t6zTP7fU8lA&list=PL30iVMnSrFbdsoFZdIxLsIGrpz77qqI6d",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w12-matematica3-03",
+      "week": 12,
+      "subject": "Matemática 3",
+      "title": "Logaritmos 2 - Troca de base, log neperiano e função logarítmica",
+      "videoUrl": "https://www.youtube.com/watch?v=QjCWRasz4Uk&list=PL30iVMnSrFbeWPTfX4fP1-t7pqGU3jTrW",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w12-biologia1-04",
+      "week": 12,
+      "subject": "Biologia 1",
+      "title": "Primeira lei de Mendel",
+      "videoUrl": "https://www.youtube.com/watch?v=3SmyPBbmRmQ",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w12-biologia2-05",
+      "week": 12,
+      "subject": "Biologia 2",
+      "title": "Sistema imune",
+      "videoUrl": "https://www.youtube.com/watch?v=pJnPe3M013w",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w12-fisica1-06",
+      "week": 12,
+      "subject": "Física 1",
+      "title": "Eletrodinâmica 2 - Circuitos",
+      "videoUrl": "https://www.youtube.com/watch?v=2h9vDmzYmig",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w12-fisica2-07",
+      "week": 12,
+      "subject": "Física 2",
+      "title": "Leis de Newton e principais forças",
+      "videoUrl": "https://www.youtube.com/watch?v=Yd5fO-afNbk&list=PL30iVMnSrFbc2m4sxh1nJ817IxsCpmg7e&index=1",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w12-quimica1-08",
+      "week": 12,
+      "subject": "Química 1",
+      "title": "Funções orgânicas nitrogenadas",
+      "videoUrl": "https://www.youtube.com/watch?v=jrIGfNu393M",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w12-quimica2-09",
+      "week": 12,
+      "subject": "Química 2",
+      "title": "Soluções 2",
+      "videoUrl": "https://www.youtube.com/watch?v=r8YyJLfuYpM&list=PL4If1xXbEdeODzRm_hsJD-lDi9FAJix5s",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w12-filosofia-sociologia-10",
+      "week": 12,
+      "subject": "Filosofia/Sociologia",
+      "title": "Maquiavel",
+      "videoUrl": "https://www.youtube.com/watch?v=rrMeyTQW_Qk",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w12-historia-11",
+      "week": 12,
+      "subject": "História",
+      "title": "Absolutismo, mercantilismo e expansão marítima",
+      "videoUrl": "https://www.youtube.com/watch?v=TZyNLIAwCZ0&list=PL30iVMnSrFbeLVIGUpiz6J-Me1PS-KGfB",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w12-geografia-12",
+      "week": 12,
+      "subject": "Geografia",
+      "title": "Solo, erosão e intemperismo",
+      "videoUrl": "https://www.youtube.com/watch?v=MwTpx509l6Q&list=PL30iVMnSrFbfecWBbQnme_fs1kZxsNqJL",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w12-linguagens-13",
+      "week": 12,
+      "subject": "Linguagens",
+      "title": "Quinhentismo e Barroco",
+      "videoUrl": "https://www.youtube.com/watch?v=qwpbHJXSXQI&list=PL30iVMnSrFbfAt78cFCFPm1ezQyflDgMW",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w12-redacao-14",
+      "week": 12,
+      "subject": "Redação",
+      "title": "Uso da crase e acentuação 1",
+      "videoUrl": "https://www.youtube.com/watch?v=bOwq8PFHuKU&list=PL30iVMnSrFbdEfL68jDCee1nyo_cLvmOs",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w13-matematica1-01",
+      "week": 13,
+      "subject": "Matemática 1",
+      "title": "Juros compostos",
+      "videoUrl": "https://www.youtube.com/watch?v=790S9GR5bWU",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w13-matematica2-02",
+      "week": 13,
+      "subject": "Matemática 2",
+      "title": "Trigonometria 3 - Ciclo trigonométrico e funções trigonométricas",
+      "videoUrl": "https://www.youtube.com/watch?v=9FgfEQM1a3c&list=PL30iVMnSrFbc3yBuHe-AgKj3E3WX0_Ej5",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w13-matematica3-03",
+      "week": 13,
+      "subject": "Matemática 3",
+      "title": "Logaritmos 3 - Problemas",
+      "videoUrl": "https://www.youtube.com/watch?v=LXamhAIIaUg&list=PL30iVMnSrFbdIobp4UZswxAOrSgLgWAvO",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w13-biologia1-04",
+      "week": 13,
+      "subject": "Biologia 1",
+      "title": "Segunda lei de Mendel",
+      "videoUrl": "https://www.youtube.com/watch?v=CVqfMN0ypoQ",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w13-biologia2-05",
+      "week": 13,
+      "subject": "Biologia 2",
+      "title": "Sistema endócrino",
+      "videoUrl": "https://www.youtube.com/watch?v=f8dra4Nuxn8",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w13-fisica1-06",
+      "week": 13,
+      "subject": "Física 1",
+      "title": "Eletrodinâmica 3 - Leis de Kirchhoff",
+      "videoUrl": "https://www.youtube.com/watch?v=1CVly_1bVkQ",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w13-fisica2-07",
+      "week": 13,
+      "subject": "Física 2",
+      "title": "Força de atrito",
+      "videoUrl": "https://www.youtube.com/watch?v=M0YKQtzV41w",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w13-quimica1-08",
+      "week": 13,
+      "subject": "Química 1",
+      "title": "Isomeria plana",
+      "videoUrl": "https://www.youtube.com/watch?v=1HjM_adHOX4",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w13-quimica2-09",
+      "week": 13,
+      "subject": "Química 2",
+      "title": "pH e pOH",
+      "videoUrl": "https://www.youtube.com/watch?v=ydsWBNtbDSI",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w13-filosofia-sociologia-10",
+      "week": 13,
+      "subject": "Filosofia/Sociologia",
+      "title": "Contratualismo",
+      "videoUrl": "https://www.youtube.com/watch?v=vVwckAou7LY",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w13-historia-11",
+      "week": 13,
+      "subject": "História",
+      "title": "Período pré-colonial",
+      "videoUrl": "https://www.youtube.com/watch?v=LS20C_lvbAQ",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w13-geografia-12",
+      "week": 13,
+      "subject": "Geografia",
+      "title": "Clima",
+      "videoUrl": "https://www.youtube.com/watch?v=bEQz0HijQpA&list=PL30iVMnSrFbdfS-dvqPcUfpqa4joqbdOc",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w13-linguagens-13",
+      "week": 13,
+      "subject": "Linguagens",
+      "title": "Arcadismo e romantismo",
+      "videoUrl": "https://www.youtube.com/watch?v=-ko2O_3gijM&list=PL30iVMnSrFbfdpjfRkYd2qbfpDbS5K4Nf",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w13-redacao-14",
+      "week": 13,
+      "subject": "Redação",
+      "title": "Uso da crase e acentuação 2",
+      "videoUrl": "https://www.youtube.com/watch?v=tZab1PJs_cY&list=PL30iVMnSrFbcV_lYOZVjpI21nQk5aec17",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w14-matematica1-01",
+      "week": 14,
+      "subject": "Matemática 1",
+      "title": "Média, mediana e moda",
+      "videoUrl": "https://www.youtube.com/watch?v=hhzLCauJwJg",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w14-matematica2-02",
+      "week": 14,
+      "subject": "Matemática 2",
+      "title": "Trigonometria 4 - Problemas",
+      "videoUrl": "https://www.youtube.com/watch?v=TX6MKbASE-Q&list=PLK0JJEbpe5K4E-Gjq40YVhtqFlHO4Jvhz",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w14-matematica3-03",
+      "week": 14,
+      "subject": "Matemática 3",
+      "title": "Variância e desvio padrão",
+      "videoUrl": "https://www.youtube.com/watch?v=okczT8W1fag",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w14-biologia1-04",
+      "week": 14,
+      "subject": "Biologia 1",
+      "title": "Herança sanguínea, herança sexual e genética das populações",
+      "videoUrl": "https://www.youtube.com/watch?v=YHVGww7D7Ig&list=PL30iVMnSrFbf0ULT6bKZwGsb_UWls8mOr",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w14-biologia2-05",
+      "week": 14,
+      "subject": "Biologia 2",
+      "title": "Sistema nervoso",
+      "videoUrl": "https://www.youtube.com/watch?v=yNZhzEwXNYU&list=PL30iVMnSrFbckoUvhgusb3-iwiA4A0Wkf",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w14-fisica1-06",
+      "week": 14,
+      "subject": "Física 1",
+      "title": "Eletrodinâmica 4 - Capacitores, baterias e complementos",
+      "videoUrl": "https://www.youtube.com/watch?v=kt4N16BFcBk&list=PL30iVMnSrFbfs20XvNSEjm3pz7HO9lrsy&index=4",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w14-fisica2-07",
+      "week": 14,
+      "subject": "Física 2",
+      "title": "Aplicação das leis de Newton",
+      "videoUrl": "https://www.youtube.com/watch?v=asKxvJkLiC4&list=PL30iVMnSrFbcj8qj3ZCMD56Csv8B5jYAR",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w14-quimica1-08",
+      "week": 14,
+      "subject": "Química 1",
+      "title": "Isomeria espacial",
+      "videoUrl": "https://www.youtube.com/watch?v=K0hy5B7rCGs",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w14-quimica2-09",
+      "week": 14,
+      "subject": "Química 2",
+      "title": "Eletroquímica 1 - Reações redox e pilhas eletroquímicas",
+      "videoUrl": "https://www.youtube.com/watch?v=FzFNrRIlV_0&list=PL30iVMnSrFbevX-dLF_6LgPhk_QlP2qDW",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w14-filosofia-sociologia-10",
+      "week": 14,
+      "subject": "Filosofia/Sociologia",
+      "title": "Kant",
+      "videoUrl": "https://www.youtube.com/watch?v=gC-8IlAGRYM&list=PL30iVMnSrFbd7MH5Y9La_gcs8pNbAl8xJ",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w14-historia-11",
+      "week": 14,
+      "subject": "História",
+      "title": "Brasil Colônia 1",
+      "videoUrl": "https://www.youtube.com/watch?v=qtwz_HKqUUg",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w14-geografia-12",
+      "week": 14,
+      "subject": "Geografia",
+      "title": "Vegetação e hidrografia brasileira",
+      "videoUrl": "https://www.youtube.com/watch?v=_1UaytDLMGk&list=PL30iVMnSrFbcUAyDm7a3NxZHmYCwbDs3W",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w14-linguagens-13",
+      "week": 14,
+      "subject": "Linguagens",
+      "title": "Realismo",
+      "videoUrl": "https://www.youtube.com/watch?v=iCXp_ic4p_E",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w14-redacao-14",
+      "week": 14,
+      "subject": "Redação",
+      "title": "Estratégias argumentativas coringas 1",
+      "videoUrl": "https://www.youtube.com/watch?v=29l3rTMunHQ&list=PL30iVMnSrFbeau5hu88tc75jX4xr127aA",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w15-matematica1-01",
+      "week": 15,
+      "subject": "Matemática 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w15-matematica2-02",
+      "week": 15,
+      "subject": "Matemática 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w15-matematica3-03",
+      "week": 15,
+      "subject": "Matemática 3",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w15-biologia1-04",
+      "week": 15,
+      "subject": "Biologia 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w15-biologia2-05",
+      "week": 15,
+      "subject": "Biologia 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w15-fisica1-06",
+      "week": 15,
+      "subject": "Física 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w15-fisica2-07",
+      "week": 15,
+      "subject": "Física 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w15-quimica1-08",
+      "week": 15,
+      "subject": "Química 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w15-quimica2-09",
+      "week": 15,
+      "subject": "Química 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w15-filosofia-sociologia-10",
+      "week": 15,
+      "subject": "Filosofia/Sociologia",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w15-historia-11",
+      "week": 15,
+      "subject": "História",
+      "title": "Brasil Colônia 2",
+      "videoUrl": "https://www.youtube.com/watch?v=oRLtfByWTnA",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w15-geografia-12",
+      "week": 15,
+      "subject": "Geografia",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w15-linguagens-13",
+      "week": 15,
+      "subject": "Linguagens",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "difícil",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w15-redacao-14",
+      "week": 15,
+      "subject": "Redação",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w16-matematica1-01",
+      "week": 16,
+      "subject": "Matemática 1",
+      "title": "Combinatória 1 - Fatorial e Princípio Fundamental da Contagem",
+      "videoUrl": "https://www.youtube.com/watch?v=NZT-EXV21OI&list=PL30iVMnSrFbcnDKcZYVfGuFe5CaqcS9jQ",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w16-matematica2-02",
+      "week": 16,
+      "subject": "Matemática 2",
+      "title": "Espacial 1 - Cubos e paralelepípedos",
+      "videoUrl": "https://www.youtube.com/watch?v=ZFsMQu4dyWo",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w16-matematica3-03",
+      "week": 16,
+      "subject": "Matemática 3",
+      "title": "Progressão Aritmética",
+      "videoUrl": "https://www.youtube.com/watch?v=TC2HcZV3mGo&list=PLTPg64KdGgYgS8sru4K9F2t2wpLuAR-Me",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w16-biologia1-04",
+      "week": 16,
+      "subject": "Biologia 1",
+      "title": "Interação gênica e linkage",
+      "videoUrl": "https://www.youtube.com/watch?v=uhx8vbhR-yg&list=PL30iVMnSrFbcvc3pngWusZRMGzG-ds7v-",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w16-biologia2-05",
+      "week": 16,
+      "subject": "Biologia 2",
+      "title": "Evolução 1 - Lamarck e Darwin",
+      "videoUrl": "https://www.youtube.com/watch?v=YE-te1nmmSk&list=PL30iVMnSrFbccKJNCRCznmI9QNEZJW1sC",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w16-fisica1-06",
+      "week": 16,
+      "subject": "Física 1",
+      "title": "Ondulatória 1 - Reflexão, refração e difração",
+      "videoUrl": "https://www.youtube.com/watch?v=0WeaGRPun94&list=PL30iVMnSrFbcqn25Bl_k0XjfP8TjYTI7K",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w16-fisica2-07",
+      "week": 16,
+      "subject": "Física 2",
+      "title": "Dinâmica do movimento circular",
+      "videoUrl": "https://www.youtube.com/watch?v=W72ARGXGWkg&t=152s",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w16-quimica1-08",
+      "week": 16,
+      "subject": "Química 1",
+      "title": "Propriedades físico-químicas dos compostos orgânicos",
+      "videoUrl": "https://www.youtube.com/watch?v=tKhW_84ii5o&list=PL30iVMnSrFbcabSP1K2PclzxY7PzJhABX",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w16-quimica2-09",
+      "week": 16,
+      "subject": "Química 2",
+      "title": "Eletroquímica 2 - Eletrólise",
+      "videoUrl": "https://www.youtube.com/watch?v=xP341e57dMs&list=PL30iVMnSrFbceQz-sbz3g1eyH1QhDvCJE",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w16-filosofia-sociologia-10",
+      "week": 16,
+      "subject": "Filosofia/Sociologia",
+      "title": "Schopenhauer e Nietzsche",
+      "videoUrl": "https://www.youtube.com/watch?v=6COggNzoqME&list=PL30iVMnSrFbfpijUzXoyEDwDZW0C594ir",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w16-historia-11",
+      "week": 16,
+      "subject": "História",
+      "title": "Período Napoleônico e vinda da família real",
+      "videoUrl": "https://www.youtube.com/watch?v=ta2npneckTE&list=PL30iVMnSrFbePqtOitClf3TLFAwIEIR23",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w16-geografia-12",
+      "week": 16,
+      "subject": "Geografia",
+      "title": "Transporte",
+      "videoUrl": "https://www.youtube.com/watch?v=Ec63U16mPsM",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w16-linguagens-13",
+      "week": 16,
+      "subject": "Linguagens",
+      "title": "Machado de Assis",
+      "videoUrl": "https://www.youtube.com/watch?v=snSbJk0ScNM",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w16-redacao-14",
+      "week": 16,
+      "subject": "Redação",
+      "title": "Fazer seu modelo de redação ENEM",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w17-matematica1-01",
+      "week": 17,
+      "subject": "Matemática 1",
+      "title": "Combinatória 2 - Permutação",
+      "videoUrl": "https://www.youtube.com/watch?v=oeTQakUQNyE&list=PL30iVMnSrFbdcg9VdLJhkiihsLuneAjPx",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w17-matematica2-02",
+      "week": 17,
+      "subject": "Matemática 2",
+      "title": "Espacial 2 - Prismas e relação de Euler",
+      "videoUrl": "https://www.youtube.com/watch?v=v_PQnBk-8Mc&list=PL30iVMnSrFbfIN-VRGTUcfSv-zhTKrHiu",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w17-matematica3-03",
+      "week": 17,
+      "subject": "Matemática 3",
+      "title": "Progressão Geométrica",
+      "videoUrl": "https://www.youtube.com/watch?v=Jad_XG9bDCE&list=PLTPg64KdGgYht7VXcqA5VWLCgeOAJjCqj",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w17-biologia1-04",
+      "week": 17,
+      "subject": "Biologia 1",
+      "title": "Vírus e viroses",
+      "videoUrl": "https://www.youtube.com/watch?v=StO7aM4JUzc&list=PL30iVMnSrFbdE4XeMLQsAX0NOwh0HSnOC",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w17-biologia2-05",
+      "week": 17,
+      "subject": "Biologia 2",
+      "title": "Evolução 2 - Neodarwinismo, órgãos análogos/homólogos e filogenia",
+      "videoUrl": "https://www.youtube.com/watch?v=YRT3h2V4n8k&list=PL30iVMnSrFbcIGSSF5q2pTUk6kGtyKGuI",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w17-fisica1-06",
+      "week": 17,
+      "subject": "Física 1",
+      "title": "Ondulatória 2 - Ressonância, polarização, interferência e efeito Doppler",
+      "videoUrl": "https://www.youtube.com/watch?v=qSq-cV7hwpw&list=PL30iVMnSrFbeTLktC2yr5JVgzt--sebwz",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w17-fisica2-07",
+      "week": 17,
+      "subject": "Física 2",
+      "title": "Estática",
+      "videoUrl": "https://www.youtube.com/watch?v=jQ131Wc8E1I",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w17-quimica1-08",
+      "week": 17,
+      "subject": "Química 1",
+      "title": "Reações orgânicas 1 - Adição e eliminação",
+      "videoUrl": "https://www.youtube.com/watch?v=UtzUigwdnU0",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w17-quimica2-09",
+      "week": 17,
+      "subject": "Química 2",
+      "title": "Cinética Química",
+      "videoUrl": "https://www.youtube.com/watch?v=ltJRR5v6l-g&list=PL7uUJC3tSB3w1CSlnfxYdDB7lGtu7-OWT",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w17-filosofia-sociologia-10",
+      "week": 17,
+      "subject": "Filosofia/Sociologia",
+      "title": "Escola de Frankfurt",
+      "videoUrl": "https://www.youtube.com/watch?v=2cRmI_bYEyc",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w17-historia-11",
+      "week": 17,
+      "subject": "História",
+      "title": "Independência do Brasil",
+      "videoUrl": "https://www.youtube.com/watch?v=hOiKSiek0xw",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w17-geografia-12",
+      "week": 17,
+      "subject": "Geografia",
+      "title": "Fontes de energia",
+      "videoUrl": "https://www.youtube.com/watch?v=6FFjh9O0KXc",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w17-linguagens-13",
+      "week": 17,
+      "subject": "Linguagens",
+      "title": "Naturalismo, parnasianismo, simbolismo",
+      "videoUrl": "https://www.youtube.com/watch?v=29uzZD5wZsM&list=PL30iVMnSrFbeY2hFRKZEf2qMT9IpiJZVm",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w17-redacao-14",
+      "week": 17,
+      "subject": "Redação",
+      "title": "Eixo temático 1 - Tecnologia e Ciência",
+      "videoUrl": "https://www.youtube.com/@CienciaTodoDia",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w18-matematica1-01",
+      "week": 18,
+      "subject": "Matemática 1",
+      "title": "Combinatória 3 - Arranjo e combinação",
+      "videoUrl": "https://www.youtube.com/watch?v=VtL98M-cqdY&list=PL30iVMnSrFbfLdt6lKRtLt2WZ10ofEt3B",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w18-matematica2-02",
+      "week": 18,
+      "subject": "Matemática 2",
+      "title": "Espacial 3 - Cilindros",
+      "videoUrl": "https://www.youtube.com/watch?v=rpbFsCa7D4E",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w18-matematica3-03",
+      "week": 18,
+      "subject": "Matemática 3",
+      "title": "Problemas envolvendo sequências",
+      "videoUrl": "https://www.youtube.com/watch?v=nKelMLmxijw&list=PL30iVMnSrFbcqDqb6pojhATsljEIi_UoD",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w18-biologia1-04",
+      "week": 18,
+      "subject": "Biologia 1",
+      "title": "Reino Monera e bacterioses",
+      "videoUrl": "https://www.youtube.com/watch?v=94dH_cu99-I&list=PL30iVMnSrFbfR5OYPpzZwPN-e2srXWO7K",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w18-biologia2-05",
+      "week": 18,
+      "subject": "Biologia 2",
+      "title": "Evolução 3 - Especiação",
+      "videoUrl": "https://www.youtube.com/watch?v=c4a6xfgngYs",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w18-fisica1-06",
+      "week": 18,
+      "subject": "Física 1",
+      "title": "Óptica 1 - Introdução e propriedades da luz",
+      "videoUrl": "https://www.youtube.com/watch?v=REKqDSPAuww&list=PL30iVMnSrFbeMdXxImo95OiC3QAV2yOEL",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w18-fisica2-07",
+      "week": 18,
+      "subject": "Física 2",
+      "title": "Hidrostática",
+      "videoUrl": "https://www.youtube.com/watch?v=pQlCv40jTCc",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w18-quimica1-08",
+      "week": 18,
+      "subject": "Química 1",
+      "title": "Reações orgânicas 2 - Substituição",
+      "videoUrl": "https://www.youtube.com/watch?v=zg1UUm-FDzU",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w18-quimica2-09",
+      "week": 18,
+      "subject": "Química 2",
+      "title": "Equilíbrio químico 1",
+      "videoUrl": "https://www.youtube.com/watch?v=s8oXpMcQWSY&list=PL30iVMnSrFbc8TfrCLE-Uok61-qCQuOX3",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w18-filosofia-sociologia-10",
+      "week": 18,
+      "subject": "Filosofia/Sociologia",
+      "title": "Existencialismo - Sartre e Simone de Beauvoir",
+      "videoUrl": "https://www.youtube.com/watch?v=g26I8ufn2xc",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w18-historia-11",
+      "week": 18,
+      "subject": "História",
+      "title": "Primeiro Reinado e Período Regencial",
+      "videoUrl": "https://www.youtube.com/watch?v=NJkgpqfz4cg&list=PL30iVMnSrFbfTyzaG3XGObf6aVofYPmDe",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w18-geografia-12",
+      "week": 18,
+      "subject": "Geografia",
+      "title": "Agricultura e mineração",
+      "videoUrl": "https://www.youtube.com/watch?v=bsybqtxDjyk&list=PL30iVMnSrFbe33Q1VYvzgzhbzry0VbUNi",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w18-linguagens-13",
+      "week": 18,
+      "subject": "Linguagens",
+      "title": "Vanguardas europeias",
+      "videoUrl": "https://www.youtube.com/watch?v=3xUjHZO0yXw",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w18-redacao-14",
+      "week": 18,
+      "subject": "Redação",
+      "title": "Eixo temático 2 - Educação",
+      "videoUrl": "https://www.youtube.com/watch?v=DyqK4E2pskc",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w19-matematica1-01",
+      "week": 19,
+      "subject": "Matemática 1",
+      "title": "Combinatória 4 - Problemas sobre PFC, permutação, arranjo e combinação",
+      "videoUrl": "https://www.youtube.com/watch?v=lJLMHFqrn4c",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w19-matematica2-02",
+      "week": 19,
+      "subject": "Matemática 2",
+      "title": "Espacial 4 - Cones e pirâmides 1",
+      "videoUrl": "https://www.youtube.com/watch?v=RJSBvqVWHJo&list=PL30iVMnSrFbdP-rqprFUoT884fqyuUdBf",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w19-matematica3-03",
+      "week": 19,
+      "subject": "Matemática 3",
+      "title": "Matrizes",
+      "videoUrl": "https://www.youtube.com/watch?v=ktr4wfXi9xg&list=PLaKmzX_hXWkKUkIYwKXyg-_pqHe-27FAZ",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w19-biologia1-04",
+      "week": 19,
+      "subject": "Biologia 1",
+      "title": "Reino Protista e Reino Fungi",
+      "videoUrl": "https://www.youtube.com/watch?v=u1ijYz37Ssw&list=PL30iVMnSrFbfavRiodhRZNh1n72_tqmXd",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w19-biologia2-05",
+      "week": 19,
+      "subject": "Biologia 2",
+      "title": "Botânica 1 - Briófitas, pteridófitas e gimnospermas",
+      "videoUrl": "https://www.youtube.com/watch?v=k-I7B5nVLP0&list=PL30iVMnSrFbecbdZWEyQdCOYbYyE0ihfj",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w19-fisica1-06",
+      "week": 19,
+      "subject": "Física 1",
+      "title": "Óptica 2 - Refração da luz",
+      "videoUrl": "https://www.youtube.com/watch?v=gvUfJXHybIY&list=PL30iVMnSrFbf0NATNoDQNy94cGms4p8-a",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w19-fisica2-07",
+      "week": 19,
+      "subject": "Física 2",
+      "title": "Gravitação",
+      "videoUrl": "https://www.youtube.com/watch?v=-8140NsksEg&list=PLzjR7HXQnrcdm6lDtXnyBUkx5-neBQIE_",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w19-quimica1-08",
+      "week": 19,
+      "subject": "Química 1",
+      "title": "Reações orgânicas 3 - Oxidação e redução",
+      "videoUrl": "https://www.youtube.com/watch?v=weNO9XPG1Uc",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w19-quimica2-09",
+      "week": 19,
+      "subject": "Química 2",
+      "title": "Equilíbrio químico 2",
+      "videoUrl": "https://www.youtube.com/watch?v=U1KcWcu0e1c&list=PL30iVMnSrFbe2dUiEWBoELJWdmt1AePrQ",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w19-filosofia-sociologia-10",
+      "week": 19,
+      "subject": "Filosofia/Sociologia",
+      "title": "Mal e justiça - Foucault, Arendt e Rawls",
+      "videoUrl": "https://www.youtube.com/watch?v=99d2BYMsvfw&list=PL30iVMnSrFbeAjseOgsZ3GyedWzSqzT2n",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w19-historia-11",
+      "week": 19,
+      "subject": "História",
+      "title": "Segundo Reinado",
+      "videoUrl": "https://www.youtube.com/watch?v=2skEPARnorI",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w19-geografia-12",
+      "week": 19,
+      "subject": "Geografia",
+      "title": "Blocos econômicos",
+      "videoUrl": "https://www.youtube.com/watch?v=CJfx3XgTjxw",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w19-linguagens-13",
+      "week": 19,
+      "subject": "Linguagens",
+      "title": "Pré-Modernismo",
+      "videoUrl": "https://www.youtube.com/watch?v=DldTRNT3pWg",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w19-redacao-14",
+      "week": 19,
+      "subject": "Redação",
+      "title": "Eixo temático 3 - Cultura e identidade",
+      "videoUrl": "https://www.youtube.com/watch?v=6wxV8gUTj74",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w20-matematica1-01",
+      "week": 20,
+      "subject": "Matemática 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w20-matematica2-02",
+      "week": 20,
+      "subject": "Matemática 2",
+      "title": "Espacial 5 - Cones e pirâmides 2",
+      "videoUrl": "https://www.youtube.com/watch?v=67IM72aHevg&list=PL30iVMnSrFbc7JLTIMUJHC-L_56KzyGRW",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w20-matematica3-03",
+      "week": 20,
+      "subject": "Matemática 3",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w20-biologia1-04",
+      "week": 20,
+      "subject": "Biologia 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w20-biologia2-05",
+      "week": 20,
+      "subject": "Biologia 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w20-fisica1-06",
+      "week": 20,
+      "subject": "Física 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w20-fisica2-07",
+      "week": 20,
+      "subject": "Física 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w20-quimica1-08",
+      "week": 20,
+      "subject": "Química 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w20-quimica2-09",
+      "week": 20,
+      "subject": "Química 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w20-filosofia-sociologia-10",
+      "week": 20,
+      "subject": "Filosofia/Sociologia",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w20-historia-11",
+      "week": 20,
+      "subject": "História",
+      "title": "Iluminismo e Revolução Francesa",
+      "videoUrl": "https://www.youtube.com/watch?v=Bet_3rJxwwY&list=PL30iVMnSrFbepNf4f3kV7O3c0yfWbt5du",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w20-geografia-12",
+      "week": 20,
+      "subject": "Geografia",
+      "title": "Oriente Médio",
+      "videoUrl": "https://www.youtube.com/watch?v=M0grDiOLxwg",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w20-linguagens-13",
+      "week": 20,
+      "subject": "Linguagens",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w20-redacao-14",
+      "week": 20,
+      "subject": "Redação",
+      "title": "Eixo temático 4 - Cidadania e participação política",
+      "videoUrl": "https://www.youtube.com/watch?v=5zaiCUKiWBo",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w21-matematica1-01",
+      "week": 21,
+      "subject": "Matemática 1",
+      "title": "Probabilidade 1",
+      "videoUrl": "https://www.youtube.com/watch?v=8g571hUvgeo&list=PL30iVMnSrFbeCH61DAoHQI7Aj0kc0tdQr",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w21-matematica2-02",
+      "week": 21,
+      "subject": "Matemática 2",
+      "title": "Espacial 6 - Esferas",
+      "videoUrl": "https://www.youtube.com/watch?v=4mEqtfBXrl8&list=PL30iVMnSrFbdKL3r0SqiElwb4d9_eEdK_",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w21-matematica3-03",
+      "week": 21,
+      "subject": "Matemática 3",
+      "title": "Sistemas lineares 1 - Definição e cálculo",
+      "videoUrl": "https://www.youtube.com/watch?v=mw0mEZ4DBsk&list=PL30iVMnSrFbd7e0wF7zlwzsvhXSYuAH-i",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w21-biologia1-04",
+      "week": 21,
+      "subject": "Biologia 1",
+      "title": "Poríferos e Cnidários",
+      "videoUrl": "https://www.youtube.com/watch?v=D7-MU1KSdC4&list=PL30iVMnSrFbcYZrzet2X-xA7cDqSc8CdL",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w21-biologia2-05",
+      "week": 21,
+      "subject": "Biologia 2",
+      "title": "Botânica 2 - Angiospermas",
+      "videoUrl": "https://www.youtube.com/watch?v=ZVJbHBqL-68",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w21-fisica1-06",
+      "week": 21,
+      "subject": "Física 1",
+      "title": "Óptica 3 - Espelhos planos",
+      "videoUrl": "https://www.youtube.com/watch?v=WDDJsiN-_aY&list=PL30iVMnSrFbfY4uqNWtci6OgJ5zY-nEmz",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w21-fisica2-07",
+      "week": 21,
+      "subject": "Física 2",
+      "title": "Impulso e quantidade de movimento",
+      "videoUrl": "https://www.youtube.com/watch?v=stUK4mZ_NrA&list=PLNfWNKz4iEr848B9DyoYVpHwQM0kI2weg",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w21-quimica1-08",
+      "week": 21,
+      "subject": "Química 1",
+      "title": "Reações orgânicas 4 - Esterificação, transesterificação e hidrólise",
+      "videoUrl": "https://www.youtube.com/watch?v=I7jkNuN5Yoo&list=PL30iVMnSrFbemJetg3vMQ_fYe2J1uSTzG",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w21-quimica2-09",
+      "week": 21,
+      "subject": "Química 2",
+      "title": "Termoquímica 1",
+      "videoUrl": "https://www.youtube.com/watch?v=Jutt_uOQzrs&list=PL30iVMnSrFbeALm0ElVTpX1WMtIh8c8J4",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w21-filosofia-sociologia-10",
+      "week": 21,
+      "subject": "Filosofia/Sociologia",
+      "title": "Cidadania, relativismo e etnocentrismo",
+      "videoUrl": "https://www.youtube.com/watch?v=5zaiCUKiWBo&list=PL30iVMnSrFbe9Gxgv3OIrNdEO_N_8OXRu",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w21-historia-11",
+      "week": 21,
+      "subject": "História",
+      "title": "Proclamação da República e República da Espada",
+      "videoUrl": "https://www.youtube.com/watch?v=L45a22TdAJg&list=PL30iVMnSrFbfIZd8ftfWOdqJSfoJmroV-",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w21-geografia-12",
+      "week": 21,
+      "subject": "Geografia",
+      "title": "Europa",
+      "videoUrl": "https://www.youtube.com/watch?v=UssmDGUnMzw",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w21-linguagens-13",
+      "week": 21,
+      "subject": "Linguagens",
+      "title": "Modernismo - Primeira fase",
+      "videoUrl": "https://www.youtube.com/watch?v=Ya6ZO3oABUs&list=PL30iVMnSrFbdGTG9NKHAM0kUY1XB9rFms",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w21-redacao-14",
+      "week": 21,
+      "subject": "Redação",
+      "title": "Eixo temático 5 - Desigualdades sociais",
+      "videoUrl": "https://www.youtube.com/watch?v=d7BeCopGqP4",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w22-matematica1-01",
+      "week": 22,
+      "subject": "Matemática 1",
+      "title": "Probabilidade 2",
+      "videoUrl": "https://www.youtube.com/watch?v=uo16XTg2CIQ&list=PL30iVMnSrFbeiJ5VQgl-gnIhN2zckAnjV",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w22-matematica2-02",
+      "week": 22,
+      "subject": "Matemática 2",
+      "title": "Espacial 7 - Troncos",
+      "videoUrl": "https://www.youtube.com/watch?v=lnQnoZ5-_24&list=PL30iVMnSrFbeT0ALigAUFIVxESJaDrCrL",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w22-matematica3-03",
+      "week": 22,
+      "subject": "Matemática 3",
+      "title": "Sistemas lineares 2 - Escalonamento e problemas",
+      "videoUrl": "https://www.youtube.com/watch?v=40LjiTXFuyY&list=PL30iVMnSrFbdNSmmheXXzHSJbX_4crzSJ",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w22-biologia1-04",
+      "week": 22,
+      "subject": "Biologia 1",
+      "title": "Platelmintos, nematelmintos e verminoses",
+      "videoUrl": "https://www.youtube.com/watch?v=LWa6QmOPZ80&list=PL30iVMnSrFbcuuPhr9_ne-41ywlg3H8Lk",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w22-biologia2-05",
+      "week": 22,
+      "subject": "Biologia 2",
+      "title": "Botânica 3 - Reprodução e fotossíntese",
+      "videoUrl": "https://www.youtube.com/watch?v=SDNc_5qXa0Q&t=1243s",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w22-fisica1-06",
+      "week": 22,
+      "subject": "Física 1",
+      "title": "Óptica 4 - Espelhos esféricos",
+      "videoUrl": "https://www.youtube.com/watch?v=q3bgLFmW4Rs&list=PL30iVMnSrFbc8OAMSI-cDy7PParrOue_Q",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w22-fisica2-07",
+      "week": 22,
+      "subject": "Física 2",
+      "title": "Eletromagnetismo 1 - Campo magnético",
+      "videoUrl": "https://www.youtube.com/watch?v=AFACIE-UH6A&list=PL30iVMnSrFbet0Djqw9i26KOMCtJrEdoF",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w22-quimica1-08",
+      "week": 22,
+      "subject": "Química 1",
+      "title": "Polímeros",
+      "videoUrl": "https://www.youtube.com/watch?v=rKTmRTLsU0Y",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w22-quimica2-09",
+      "week": 22,
+      "subject": "Química 2",
+      "title": "Termoquímica 2",
+      "videoUrl": "https://www.youtube.com/watch?v=Jutt_uOQzrs&list=PL30iVMnSrFbeALm0ElVTpX1WMtIh8c8J4",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w22-filosofia-sociologia-10",
+      "week": 22,
+      "subject": "Filosofia/Sociologia",
+      "title": "Auguste Comte",
+      "videoUrl": "https://www.youtube.com/watch?v=zZ9HDdybnQc",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w22-historia-11",
+      "week": 22,
+      "subject": "História",
+      "title": "República Oligárquica",
+      "videoUrl": "https://www.youtube.com/watch?v=FmGVa7W--mg&t=1284s",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w22-geografia-12",
+      "week": 22,
+      "subject": "Geografia",
+      "title": "América",
+      "videoUrl": "https://www.youtube.com/watch?v=gunb5DzLdAE&list=PLoTRa_0e-isfwr4rn3sijXJtxptePNPfP",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w22-linguagens-13",
+      "week": 22,
+      "subject": "Linguagens",
+      "title": "Modernismo - Segunda e Terceira fases",
+      "videoUrl": "https://www.youtube.com/watch?v=GWt-rqV5VAI&list=PL30iVMnSrFbfI-6ZkHwJ24JpT1_zibD5D",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w22-redacao-14",
+      "week": 22,
+      "subject": "Redação",
+      "title": "Eixo temático 6 - Economia",
+      "videoUrl": "https://www.youtube.com/watch?v=fKuwQ5sauZw&list=PLpDoIofcp9Y5u-4Z93k2Hn5unI_DTUpla",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w23-matematica1-01",
+      "week": 23,
+      "subject": "Matemática 1",
+      "title": "Revisão - Divisibilidade, MDC/MMC, equações",
+      "videoUrl": "",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w23-matematica2-02",
+      "week": 23,
+      "subject": "Matemática 2",
+      "title": "Espacial 8 - Problemas",
+      "videoUrl": "https://www.youtube.com/watch?v=sf9oJ4jJdmQ",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w23-matematica3-03",
+      "week": 23,
+      "subject": "Matemática 3",
+      "title": "Analítica 1 - Ponto e reta",
+      "videoUrl": "https://www.youtube.com/watch?v=ZJ5Aqwcx9f4&list=PL30iVMnSrFbdosE5Ns8u1oBjjzAX57odS",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w23-biologia1-04",
+      "week": 23,
+      "subject": "Biologia 1",
+      "title": "Anelídeos, artrópodes e equinodermos",
+      "videoUrl": "https://www.youtube.com/watch?v=BifQ3731tak&list=PL30iVMnSrFbc9jEqZyHNjGJwl3aGa_qNi",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w23-biologia2-05",
+      "week": 23,
+      "subject": "Biologia 2",
+      "title": "Botânica 4 - Tecidos vegetais",
+      "videoUrl": "https://www.youtube.com/watch?v=B__QgwAUwAQ&list=PL30iVMnSrFbezviOXXbSXFPlf0QmG0MLW",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w23-fisica1-06",
+      "week": 23,
+      "subject": "Física 1",
+      "title": "Óptica 4 - Lentes esféricas",
+      "videoUrl": "https://www.youtube.com/watch?v=sJTrdArAeKY&list=PL30iVMnSrFbcLgKeUmVwcYf06wuYi-UQ6",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w23-fisica2-07",
+      "week": 23,
+      "subject": "Física 2",
+      "title": "Eletromagnetismo 2 - Força e indução",
+      "videoUrl": "https://www.youtube.com/watch?v=N0Hhmj4s5-k&list=PL30iVMnSrFbc6cMntfIl-012zIb0aaUbb",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w23-quimica1-08",
+      "week": 23,
+      "subject": "Química 1",
+      "title": "Química nuclear",
+      "videoUrl": "https://www.youtube.com/watch?v=1bbXmAgAxGQ&list=PL30iVMnSrFbcOn8Rt480AXN7lRZYqbmW9",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w23-quimica2-09",
+      "week": 23,
+      "subject": "Química 2",
+      "title": "Constantes de acidez e basicidade - pH, Ka, Kb, Ki, pKa, pKb",
+      "videoUrl": "https://www.youtube.com/watch?v=Qw7GDxqcX6o&list=PL30iVMnSrFbdForvNGDfLTm-Vcv23ceHv",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w23-filosofia-sociologia-10",
+      "week": 23,
+      "subject": "Filosofia/Sociologia",
+      "title": "Émille Durkhein",
+      "videoUrl": "https://www.youtube.com/watch?v=L-A8u46YUss",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w23-historia-11",
+      "week": 23,
+      "subject": "História",
+      "title": "Primeira Guerra Mundial",
+      "videoUrl": "https://www.youtube.com/watch?v=kCKuP2OqfEs",
+      "importance": "alta",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w23-geografia-12",
+      "week": 23,
+      "subject": "Geografia",
+      "title": "Era Vargas",
+      "videoUrl": "https://www.youtube.com/watch?v=C6IUgc_arhc",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w23-linguagens-13",
+      "week": 23,
+      "subject": "Linguagens",
+      "title": "Estratégias de interpretação ENEM",
+      "videoUrl": "https://www.youtube.com/watch?v=ihTx0nH1_RQ",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w23-redacao-14",
+      "week": 23,
+      "subject": "Redação",
+      "title": "Eixo temático 7 - Saúde pública",
+      "videoUrl": "https://www.youtube.com/watch?v=28zuMHK9RlY",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w24-matematica1-01",
+      "week": 24,
+      "subject": "Matemática 1",
+      "title": "Revisão - Regra de três simples, composta e inversa / Grandezas proporcionais",
+      "videoUrl": "",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w24-matematica2-02",
+      "week": 24,
+      "subject": "Matemática 2",
+      "title": "Espacial 9 - Revisão",
+      "videoUrl": "",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w24-matematica3-03",
+      "week": 24,
+      "subject": "Matemática 3",
+      "title": "Analítica 2 - Ponto e reta 2",
+      "videoUrl": "https://www.youtube.com/watch?v=JeLjoqSrBqI&list=PL30iVMnSrFbf6Nuaauypb20GDYiJB67OF",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w24-biologia1-04",
+      "week": 24,
+      "subject": "Biologia 1",
+      "title": "Cordados",
+      "videoUrl": "https://www.youtube.com/watch?v=vQzUDrsWDvU&list=PL30iVMnSrFbc16qB8t01KFY2wncawcqf_",
+      "importance": "difícil",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w24-biologia2-05",
+      "week": 24,
+      "subject": "Biologia 2",
+      "title": "Biomas do Brasil",
+      "videoUrl": "https://www.youtube.com/watch?v=fH1azFZesD4&list=PL30iVMnSrFbe0lEi7E0qN6fJK85YKEdM_",
+      "importance": "difícil",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w24-fisica1-06",
+      "week": 24,
+      "subject": "Física 1",
+      "title": "Óptica 5 - Óptica da visão e Instrumentos Ópticos",
+      "videoUrl": "https://www.youtube.com/watch?v=ECS3GxdlMBQ&list=PL30iVMnSrFbeCamKNXIr0q0OGhV4gjmr_",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w24-fisica2-07",
+      "week": 24,
+      "subject": "Física 2",
+      "title": "Eletromagnetismo 3 - Revisão e complementos",
+      "videoUrl": "https://www.youtube.com/watch?v=WoMSBM8JHZc&list=PLzjR7HXQnrcd0_HOcaVJ5BNRdoIBy9A36&index=27",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w24-quimica1-08",
+      "week": 24,
+      "subject": "Química 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w24-quimica2-09",
+      "week": 24,
+      "subject": "Química 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w24-filosofia-sociologia-10",
+      "week": 24,
+      "subject": "Filosofia/Sociologia",
+      "title": "Max Weber",
+      "videoUrl": "https://www.youtube.com/watch?v=gfZztGey4ig",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w24-historia-11",
+      "week": 24,
+      "subject": "História",
+      "title": "Segunda Guerra Mundial",
+      "videoUrl": "https://www.youtube.com/watch?v=4hEDjSdszSU&list=PL30iVMnSrFbfZ2WZ4ot9UdOAgNjkCMgFd",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w24-geografia-12",
+      "week": 24,
+      "subject": "Geografia",
+      "title": "Dutra, Vargas, JK, Jânio Quadros e João Goulart",
+      "videoUrl": "https://www.youtube.com/watch?v=i9zdrYhSfuE&list=PL30iVMnSrFbfph45qFulFWr6EGC25i8n9",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w24-linguagens-13",
+      "week": 24,
+      "subject": "Linguagens",
+      "title": "Estudo dos distratores",
+      "videoUrl": "https://www.youtube.com/watch?v=Yc4B-QVFcoQ",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w24-redacao-14",
+      "week": 24,
+      "subject": "Redação",
+      "title": "Eixo temático 8 - Relações trabalhistas",
+      "videoUrl": "https://www.youtube.com/watch?v=rP1siv_duBM",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w25-matematica1-01",
+      "week": 25,
+      "subject": "Matemática 1",
+      "title": "Revisão - Estatística",
+      "videoUrl": "",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w25-matematica2-02",
+      "week": 25,
+      "subject": "Matemática 2",
+      "title": "Projeções",
+      "videoUrl": "https://www.youtube.com/watch?v=agWnbZASsZY&list=PL30iVMnSrFbfrYEcPBjAorQ4TU7Ol1Jia",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w25-matematica3-03",
+      "week": 25,
+      "subject": "Matemática 3",
+      "title": "Analítica 3 - Circunferência",
+      "videoUrl": "https://www.youtube.com/watch?v=p93CirSoL8A&list=PL30iVMnSrFbcVIZ3V5NoRxA6BAR-oT4MX",
+      "importance": "baixa",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w25-biologia1-04",
+      "week": 25,
+      "subject": "Biologia 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w25-biologia2-05",
+      "week": 25,
+      "subject": "Biologia 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w25-fisica1-06",
+      "week": 25,
+      "subject": "Física 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w25-fisica2-07",
+      "week": 25,
+      "subject": "Física 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w25-quimica1-08",
+      "week": 25,
+      "subject": "Química 1",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w25-quimica2-09",
+      "week": 25,
+      "subject": "Química 2",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w25-filosofia-sociologia-10",
+      "week": 25,
+      "subject": "Filosofia/Sociologia",
+      "title": "Karl Marx",
+      "videoUrl": "https://www.youtube.com/watch?v=FJ7FwQsDWvk",
+      "importance": "média",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w25-historia-11",
+      "week": 25,
+      "subject": "História",
+      "title": "Guerra Fria",
+      "videoUrl": "https://www.youtube.com/watch?v=x6T_AsE8Rts",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w25-geografia-12",
+      "week": 25,
+      "subject": "Geografia",
+      "title": "Ditadura Militar e Nova República",
+      "videoUrl": "https://www.youtube.com/watch?v=1gGIh5rMA14&list=PL30iVMnSrFbcJxWzYzTmLNgx2OsdC7rut",
+      "importance": "extrema",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w25-linguagens-13",
+      "week": 25,
+      "subject": "Linguagens",
+      "title": "Revisão",
+      "videoUrl": "",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    },
+    {
+      "id": "w25-redacao-14",
+      "week": 25,
+      "subject": "Redação",
+      "title": "Eixo temático 9 - Ética e justiça",
+      "videoUrl": "https://www.youtube.com/watch?v=nlBQpzaxQ10",
+      "importance": "none",
+      "tags": [],
+      "exerciseListUrl": ""
+    }
+  ]
+}
