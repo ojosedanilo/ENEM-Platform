@@ -13,11 +13,11 @@ export default function Home() {
   const subjects = [...new Set(topics.map(t => t.subject))].length
 
   return (
-    <div className="flex flex-col items-center justify-center flex-1 px-6 py-16 gap-12">
+    <div className="flex flex-col items-center justify-center flex-1 px-4 sm:px-6 py-10 sm:py-16 gap-8 sm:gap-12">
 
       {/* Hero */}
       <div className="text-center max-w-xl">
-        <h1 className="font-display text-5xl leading-tight mb-3" style={{ color: '#ece9e0' }}>
+        <h1 className="font-display text-3xl sm:text-5xl leading-tight mb-3" style={{ color: '#ece9e0' }}>
           Sua jornada para o{' '}
           <span style={{ color: '#e8a020' }}>ENEM</span>
         </h1>

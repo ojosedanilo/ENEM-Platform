@@ -22,9 +22,9 @@ export default {
         },
       },
       fontFamily: {
-        display: ['"Playfair Display"', 'Georgia', 'serif'],
-        body:    ['"Outfit"', 'sans-serif'],
-        mono:    ['"JetBrains Mono"', 'monospace'],
+        display: ['"Red Hat Display"', '"Playfair Display"', 'Georgia', 'serif'],
+        body:    ['"Open Sans"', 'sans-serif'],
+        mono:    ['"Ubuntu Mono"', '"JetBrains Mono"', 'monospace'],
       },
     },
   },

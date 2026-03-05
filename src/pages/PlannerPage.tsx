@@ -74,6 +74,13 @@ const CELL_COLORS = [
 /* ── Component ── */
 export default function PlannerPage() {
   const [weekOffset, setWeekOffset] = useState(0)
+  const [windowWidth, setWindowWidth] = useState(window.innerWidth)
+  useEffect(() => {
+    const handler = () => setWindowWidth(window.innerWidth)
+    window.addEventListener('resize', handler)
+    return () => window.removeEventListener('resize', handler)
+  }, [])
+  const isMobile = windowWidth < 640
   const [all, setAll] = useState<Record<string, PlannerData>>(loadAll)
   const [editingCell, setEditingCell] = useState<string | null>(null)
   const [contextMenu, setContextMenu] = useState<{ cellKey: string; x: number; y: number } | null>(null)
@@ -213,10 +220,10 @@ export default function PlannerPage() {
       </div>
 
       {/* ── Main area ── */}
-      <div className="flex flex-1 overflow-hidden">
+      <div className="flex flex-col sm:flex-row flex-1 overflow-hidden">
 
         {/* ── Grid + relato ── */}
-        <div className="flex flex-1 overflow-hidden">
+        <div className="flex flex-col sm:flex-row flex-1 overflow-hidden">
 
           {/* Scrollable grid */}
           <div className="flex-1 overflow-auto">
@@ -359,8 +366,13 @@ export default function PlannerPage() {
 
           {/* ── Relato Semanal ── */}
           <div
-            className="flex flex-col border-l shrink-0 overflow-hidden"
-            style={{ width: 220, borderColor: '#252538', background: '#13131c' }}
+            className="flex flex-col border-l border-t sm:border-t-0 shrink-0 overflow-hidden"
+            style={{
+              borderColor: '#252538',
+              background: '#13131c',
+              width: isMobile ? '100%' : 220,
+              maxHeight: isMobile ? 180 : undefined,
+            }}
           >
             <div
               className="px-4 py-3 border-b shrink-0"

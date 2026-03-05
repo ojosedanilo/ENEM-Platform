@@ -8,7 +8,7 @@ export default function WeeksPage() {
   const { getCompletionCount } = useProgress()
 
   return (
-    <div className="flex-1 overflow-y-auto px-6 py-8 max-w-6xl mx-auto w-full">
+    <div className="flex-1 overflow-y-auto px-4 sm:px-6 py-6 sm:py-8 max-w-6xl mx-auto w-full">
       <h1 className="font-display text-3xl mb-8" style={{ color: '#ece9e0' }}>
         Semanas
       </h1>
